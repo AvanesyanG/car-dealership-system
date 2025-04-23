@@ -1,0 +1,19 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# IDE/editor configurations
+.idea/
+.vscode/
+
+# Sequelize configuration
+.sequelizerc.js
+
+# Operating system files
+.DS_Store
+Thumbs.db
