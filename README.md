@@ -1,6 +1,6 @@
 # 🚗 Car Dealership System
 
-A Node.js-based backend system for managing a car dealership, including inventory, customer, and sales data. This application leverages Sequelize ORM for database interaction and supports environment-based configuration.
+A Node.js-based backend system for managing car dealerships, their associated cars, users, and car ratings. This application leverages Sequelize ORM for database interaction and supports environment-based configuration. It allows dealerships to manage cars, users, and ratings through API endpoints, with features like soft deletes, user assignments, and average car ratings.
 
 ---
 
